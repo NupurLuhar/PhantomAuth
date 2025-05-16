@@ -13,4 +13,4 @@ PhantomAuth is a smart security solution that silently verifies user identity us
 
 1. Install dependencies
 2. Start backend
-3. 3. Open `frontend/index.html` in browser.
+3. Open `frontend/index.html` in browser.
