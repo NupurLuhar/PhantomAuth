@@ -1,0 +1,16 @@
+phantomauth/
+├── backend/
+│   ├── main.py
+│   ├── models/
+│   │   ├── trainer.py
+│   │   ├── predictor.py
+│   └── database.py
+│   └── utils.py
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── logger.js
+├── data/
+│   └── sample_user_data.csv
+├── README.md
+├── requirements.txt
